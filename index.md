@@ -5,16 +5,6 @@ Programming Projects
 --------------------
 
 ---
-### [Lab 07 | CSCI 325](project1)
-
-![325-Lab-07](images/project2.png)
-
----
-### [Lab 09 | CSCI 325](project2)
-
-![325-lab09](images/project3.png)
-
----
 ### [Final Project | CSCI 325](project3)
 
 ![325-Final](images/project1.png)
@@ -23,6 +13,16 @@ Programming Projects
 ### [Final Project | CSCI 419](project4)
 
 ![CSCI-419-Final](images/Delivery3.png)
+
+---
+### [Lab 07 | CSCI 325](project1)
+
+![325-Lab-07](images/project2.png)
+
+---
+### [Lab 09 | CSCI 325](project2)
+
+![325-lab09](images/project3.png)
 
 ---
 
