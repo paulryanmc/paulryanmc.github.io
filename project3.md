@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+CSCI 325 Final
 ===============
 
 -   **Class: CSCI 325** 
@@ -11,3 +11,8 @@ Project 1 Title
 ## Project description
 
 Project that creates a hangman game for the user to play in command line.
+
+To run the project from the command line, go to the folder it is located in and
+type the following:
+
+g++ -o <name-you-want-to-give> 325.cpp
