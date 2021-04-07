@@ -4,27 +4,25 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+---
+### [Lab 07 | CSCI 325](project1)
+
+![325-Lab-07](images/project2.png)
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Lab 09 | CSCI 325](project2)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 2 Title | CSCI 315](project1)
-
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![325-lab09](images/project3.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Final Project | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![325-Final](images/project1.png)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Final Project | CSCI 419](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![CSCI-419-Final](images/Delivery3.png)
 
 ---
 
