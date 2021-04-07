@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper](/pdf/Networking_Paper.docx)
+### [Ethics Paper](/pdf/NetworkingPaper.docx)
 
 -   **Class: CSCI 332**  
 -   **Grade: 90**
 
-### [Ethics for a Student in the Modern Era](/pdf/Ethics_Paper_CSCI325_.docx)
+### [Ethics for a Student in the Modern Era](/pdf/EthicsPaperCSCI325.docx)
 
 -   **Class: CSCI 325** 
 -   **Grade: 85**
 
-### [Account Created in 1984 - Ethics in Modern Technology](/pdf/235_Paper.docx)
+### [Account Created in 1984 - Ethics in Modern Technology](/pdf/235Paper.docx)
 
 -   **Class: CSCI 235** 
 -   **Grade: 100**
@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Bombplace Narration](/pdf/bombPlace_Paul_McGlothlin.flv)
+### [Bombplace Narration](/pdf/bombPlacePaulMcGlothlin.flv)
 
 - **Class: CSCI 325** 
 - **Grade: 80**
