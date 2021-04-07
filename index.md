@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Bombplace Narration](/pdf/bombPlace Paul McGlothlin.flv)
+### [Bombplace Narration](/pdf/bombPlace_Paul_McGlothlin.flv)
 
 - **Class: CSCI 325** 
 - **Grade: 80**
