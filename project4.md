@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+CSCI 419 Final
 ===============
 
 -   **Class: CSCI 419** 
