@@ -5,7 +5,7 @@ Ethics for a Student in the Modern Era
 
 -   **Class: CSCI 325** 
 -   **Grade: 85**
-### [Ethics Paper](/pdf/EthicsPaperCSCI325.docx)
+- ### [Ethics Paper](/pdf/EthicsPaperCSCI325.docx)
 
 ## Full Paper
 
