@@ -10,9 +10,28 @@ CSCI 325 Lab 07
 
 ## Project description
 
-Java project designed to validate cards from user input, with two classes devoted to error management.
+![325-Lab-07](images/project2demo.png)
 
-To run the project from the command line, go to the dist folder and
-type the following:
+Java project designed to take input from the user and judge it according to several predefined standards:
 
-java -jar "lab07.jar" 
+Is the first string a valid address in the format of "Street, City, State ZIP"? (ie: 123 OldBirch Lane, Wren, SC 29673)
+
+Is the second string a valid credit card brand? (Visa, American Express, Discover, Mastercard)
+
+Is the third string a valid card type? (Numbers 1-4)
+
+Is the last string a valid credit card number? (String of numbers either 15 or 16 characters in length based on the starting number)
+
+Pictured above is a sample series of inputs and outputs.
+
+
+To properly utilize these files, combine the relevant classes into a .jar file through a dedicated program or command line.
+
+Example command line:
+
+jar cf jar-file input-file(s)
+
+In an IDE such as Netbeans, the process should more or less done for you during the build process, or can be quickly done by importing the classes.
+Consult the material for your IDE.
+
+
