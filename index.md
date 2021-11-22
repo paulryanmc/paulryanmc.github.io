@@ -34,12 +34,12 @@ Ethics Papers
 -   **Class: CSCI 332**  
 -   **Grade: 90**
 
-### [Ethics for a Student in the Modern Era](/pdf/EthicsPaperCSCI325.docx)
+### [Ethics for a Student in the Modern Era](essay2)
 
 -   **Class: CSCI 325** 
 -   **Grade: 85**
 
-### [Account Created in 1984 - Ethics in Modern Technology](/pdf/235Paper.docx)
+### [Account Created in 1984 - Ethics in Modern Technology](essay3)
 
 -   **Class: CSCI 235** 
 -   **Grade: 100**
