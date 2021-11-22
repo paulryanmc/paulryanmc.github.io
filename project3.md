@@ -1,18 +1,27 @@
 [Back to Portfolio](./)
 
-CSCI 325 Final
+CSCI 332 Final Group Project
 ===============
 
--   **Class: CSCI 325** 
--   **Grade: 85**
--   **Language(s): c++**
--   **Source Code Repository:** [CSCI 325 Final](https://github.com/paulryanmc/325-Final)  
+-   **Class: CSCI 332** 
+-   **Grade: 90**
+-   **Language(s): C++**
+-   **Source Code Repository:** [CSCI 332 Final Group Project](https://github.com/paulryanmc/332-Team-Project)  
 
 ## Project description
 
-Project that creates a hangman game for the user to play in command line.
+![332-Group-Project](images/project1demo.png)
 
-To run the project from the command line, go to the folder it is located in and
-type the following:
+Project that utilizes a local server to play a game with another party that involves running into each other to deal damage.
 
-g++ -o <name-you-want-to-give> 325.cpp
+Pictured above: Log of an in progress game showing the local IP the server is currently utilizing and the players X and Y coordinates in the game, along with their health and roles.
+
+Compiling C++ varies based on your compiler of choice and operating system.
+
+Example command line for Windows with MinGW:
+g++ <.cpp files>
+  
+Example command line for Linux with gcc:
+gcc program-source-code.c -o executable-file-name
+
+IDEs often come with built-in compilers. Consult your IDE's material.
