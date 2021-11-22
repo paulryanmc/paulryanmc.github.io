@@ -5,14 +5,14 @@ Programming Projects
 --------------------
 
 ---
-### [Final Project | CSCI 325](project3)
+### [Final Group Project | CSCI 332](project3)
 
-![325-Final](images/project1.png)
+![332-GroupFinal](images/project1.png)
 
 ---
 ### [Final Project | CSCI 419](project4)
 
-![CSCI-419-Final](images/Delivery3.png)
+![419-Final](images/Delivery3.png)
 
 ---
 ### [Lab 07 | CSCI 325](project1)
@@ -55,10 +55,11 @@ Presentations
 - **Grade: 80**
 
 
-### [Delivery5](/pdf/Delivery5.pptx)
+### [CSCI 352 Group Handout Presentation](/pdf/CSCI352ContingencyPlanningProject–McGlothlinHarrison.docx)
 
-- **Class: CSCI 419** 
-- **Grade: 90**
+- **Class: CSCI 352** 
+- **Grade: 100**
+- **A handout given to students as part of our presentation on Contingency Planning. It was utilized to give the presentation with the students following along.**
 
 ---
 
