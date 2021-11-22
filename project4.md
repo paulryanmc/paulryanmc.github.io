@@ -10,9 +10,11 @@ CSCI 419 Final
 
 ## Project description
 
-![325-Lab-07](images/project2.png)
+![325-Lab-07](images/Delivery3.png)
 
 Sample SQL database for managing videogames in a store. The database is aimed towards delivering information about the activities of individual franchises of the store and their customers. Key entities include the franchise itself, orders containing games and merchandise,  employees, and customers and their buying habits.
+
+Pictured above: Entity Relationship Diagram detailing all of the entities and relationships, and showing attributes within the entities. 
 
 Was given as the final project for Database Management.
 
