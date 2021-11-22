@@ -49,7 +49,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Bombplace Narration](/pdf/bombPlacePaulMcGlothlin.flv)
+### [CSCI 325 Group: Bombplace Narration](/pdf/bombPlacePaulMcGlothlin.flv)
 
 - **Class: CSCI 325** 
 - **Grade: 80**
@@ -61,6 +61,13 @@ Presentations
 - **Class: CSCI 352** 
 - **Grade: 100**
 - **A handout given to students as part of our presentation on Contingency Planning. It was utilized to give the presentation with the students following along.**
+
+
+### [CSCI 419 Final: Delivery 5](/pdf/Delivery5.pptx)
+
+- **Class: CSCI 419** 
+- **Grade: 90**
+- **A powerpoint presentation to be turned in with the SQL from the project above. Details the features of the project.**
 
 ---
 
