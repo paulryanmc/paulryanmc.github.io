@@ -53,6 +53,7 @@ Presentations
 
 - **Class: CSCI 325** 
 - **Grade: 80**
+- **Narration of my part in the final group project in 325.**
 
 
 ### [CSCI 352 Group Handout Presentation](/pdf/CSCI352ContingencyPlanningProject–McGlothlinHarrison.docx)
