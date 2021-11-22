@@ -5,22 +5,22 @@ Programming Projects
 --------------------
 
 ---
-### [Final Group Project | CSCI 332](project3)
+### [Final Group Project | CSCI 332](project3.md)
 
 ![332-GroupFinal](images/project1.png)
 
 ---
-### [Final Project | CSCI 419](project4)
+### [Final Project | CSCI 419](project4.md)
 
 ![419-Final](images/Delivery3.png)
 
 ---
-### [Lab 07 | CSCI 325](project1)
+### [Lab 07 | CSCI 325](project1.md)
 
 ![325-Lab-07](images/project2.png)
 
 ---
-### [Lab 09 | CSCI 325](project2)
+### [Lab 09 | CSCI 325](project2.md)
 
 ![325-lab09](images/project3.png)
 
@@ -29,17 +29,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper](essay1)
+### [Ethics Paper](essay1.md)
 
 -   **Class: CSCI 332**  
 -   **Grade: 90**
 
-### [Ethics for a Student in the Modern Era](essay2)
+### [Ethics for a Student in the Modern Era](essay2.md)
 
 -   **Class: CSCI 325** 
 -   **Grade: 85**
 
-### [Account Created in 1984 - Ethics in Modern Technology](essay3)
+### [Account Created in 1984 - Ethics in Modern Technology](essay3.md)
 
 -   **Class: CSCI 235** 
 -   **Grade: 100**
