@@ -5,7 +5,7 @@ Ethics Paper
 
 -   **Class: CSCI 332** 
 -   **Grade: 90**
-### [Ethics Paper](/pdf/NetworkingPaper.docx))  
+### [Ethics Paper](/pdf/NetworkingPaper.docx)
 
 ## Full Paper
 
