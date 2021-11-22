@@ -10,10 +10,19 @@ CSCI 325 Lab 09
 
 ## Project description
 
-Java project designed to sort out palindromes.
+![325-Lab-07](images/project3.png)
+
+Java project designed to take a line of text input from the user and determine if it is a palindrome.
+
+Pictured above: Example input and output for positive and negative cases.
 
 
-To run the project from the command line, go to the dist folder and
-type the following:
+To properly utilize these files, combine the relevant classes into a .jar file through a dedicated program or command line.
 
-java -jar "lab09.jar" 
+Example command line:
+
+jar cf jar-file input-file(s)
+
+In an IDE such as Netbeans, the process should more or less done for you during the build process, or can be quickly done by importing the classes.
+Consult the material for your IDE.
+
