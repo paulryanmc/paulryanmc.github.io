@@ -29,7 +29,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper](/pdf/NetworkingPaper.docx)
+### [Ethics Paper](essay1)
 
 -   **Class: CSCI 332**  
 -   **Grade: 90**
