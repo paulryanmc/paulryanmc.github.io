@@ -5,7 +5,7 @@ Account Created in 1984 - Ethics in Modern Technology
 
 -   **Class: CSCI 235** 
 -   **Grade: 100**
-### [Ethics Paper](/pdf/235Paper.docx)
+- ### [Ethics Paper](/pdf/235Paper.docx)
 
 ## Full Paper
 
