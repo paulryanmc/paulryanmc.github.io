@@ -1,8 +1,8 @@
-[View My Resume](/pdf/paul_resume.pdf)
-==================
-
 Portfolio
 =========
+
+[View My Resume](/pdf/paul_resume.pdf)
+--------------------
 
 Programming Projects
 --------------------
