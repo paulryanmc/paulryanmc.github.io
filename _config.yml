@@ -9,7 +9,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <a href="https://csuniv.joinhandshake.com/users/25814658">View My Handshake Profile</a>
   <br />
   <br />
-  <"/pdf/paul_resume.pdf">View My Resume
+  [View My Resume](/pdf/paul_resume.pdf)
   <br />
 repository: "paulryanmc/paulryanmc.github.io"
 github_username:  paulryanmc # update with your username
