@@ -11,18 +11,17 @@ CSCI 325 Lab 07
 ## Project description
 
 ![325-Lab-07](images/project2demo.png)
+![325-Lab-07](images/project2demo2.png)
 
 Java project designed to take input from the user and judge it according to several predefined standards:
 
-Is the first string a valid address in the format of "Street, City, State ZIP"? (ie: 123 OldBirch Lane, Wren, SC 29673)
+|A| Is the first string a valid address in the format of "Street, City, State ZIP"? (ie: 123 OldBirch Lane, Wren, SC 29673)
 
-Is the second string a valid credit card brand? (Visa, American Express, Discover, Mastercard)
+|B| Is the second string a valid credit card brand? (Visa, American Express, Discover, Mastercard)
 
-Is the third string a valid card type? (Numbers 1-4)
+|C| Is the third string a valid card type? (Numbers 1-4)
 
-Is the last string a valid credit card number? (String of numbers either 15 or 16 characters in length based on the starting number)
-
-Pictured above is a sample series of inputs and outputs.
+|D| Is the last string a valid credit card number? (String of numbers either 15 or 16 characters in length based on the starting number)
 
 
 To properly utilize these files, combine the relevant classes into a .jar file through a dedicated program or command line.
