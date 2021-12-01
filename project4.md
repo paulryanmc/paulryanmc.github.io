@@ -1,16 +1,17 @@
 [Back to Portfolio](./)
 
-CSCI 419 Final
+CSCI 334 Team Project
 ===============
 
--   **Class: CSCI 419** 
+-   **Class: CSCI 334** 
 -   **Grade: 90**
--   **Language(s): SQL**
--   **Source Code Repository:** [CSCI 419 Final](https://github.com/paulryanmc/CSCI-419-Final)  
+-   **Language(s): Ruby**
+-   **Source Code Repository:** [CSCI 334 Team](https://github.com/paulryanmc/334-Team)  
 
 ## Project description
 
-![325-Lab-07](images/Delivery3.png)
+![334-Team-1](images/team2.png)
+![334-Team-2](images/team3.png)
 
 Sample SQL database for managing videogames in a store. The database is aimed towards delivering information about the activities of individual franchises of the store and their customers. Key entities include the franchise itself, orders containing games and merchandise,  employees, and customers and their buying habits.
 
