@@ -13,9 +13,9 @@ Programming Projects
 ![332-GroupFinal](images/project1.png)
 
 ---
-### [Final Project | CSCI 419](project4.md)
+### [Team Project | CSCI 334](project4.md)
 
-![419-Final](images/Delivery3.png)
+![334-Team](images/team1.png)
 
 ---
 ### [Lab 07 | CSCI 325](project1.md)
