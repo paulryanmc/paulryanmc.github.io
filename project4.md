@@ -13,10 +13,16 @@ CSCI 334 Team Project
 ![334-Team-1](images/team2.png)
 ![334-Team-2](images/team3.png)
 
-Sample SQL database for managing videogames in a store. The database is aimed towards delivering information about the activities of individual franchises of the store and their customers. Key entities include the franchise itself, orders containing games and merchandise,  employees, and customers and their buying habits.
+**Example Website Deploy:** [CSCI 334 Team Example](http://gentle-caverns-07357.herokuapp.com/) 
 
-Pictured above: Entity Relationship Diagram detailing all of the entities and relationships, and showing attributes within the entities. 
+Ruby-based sample website created as part of a team for CSCI 334.
+Promotes a COVID-19 Charity 5K Run and includes a login system and accompanying database to support admin accounts and additional signups.
 
-Was given as the final project for Database Management.
+|A| Global directory with access to the various pages on the website
+|B| New user signup functionality that allows users to create an account with the inputted Name, Email, and Password 
+|C| Admin access to the site-wide user database, specifically the delete functionality that allows an admin to remove an account
+|D| Promotion functionality that allows the admin to ascend other users to admin status
 
-File can be opened via any traditional text editor, but will be lacking formatting and usability. In order to properly utilize the format, a local SQL program such as MySQL or a similar online alternative is required.
+
+
+To run this application: First, make sure to pull all code from GitHub into a subfolder within your file tree Next, run rails db:migrate in the command line to set up the database Run rails db:migrate:reset to remove any previous data stored in the database Finally, run db:seed to generate 1 initial admin and 99 users The admin login is example@railstutorial.org, password: foobar To access the site run rails server and preview the running application. From there you can create any new users, and use the default admin to promote any users
