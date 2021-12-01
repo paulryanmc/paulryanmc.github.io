@@ -11,7 +11,7 @@ CSCI 325 Lab 07
 ## Project description
 
 ![325-Lab-07](images/project2demo.png)
-![325-Lab-07](images/project2demo2.png)
+![325-Lab-072](images/project2demo2.png)
 
 Java project designed to take input from the user and judge it according to several predefined standards:
 
