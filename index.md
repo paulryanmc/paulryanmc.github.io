@@ -23,9 +23,9 @@ Programming Projects
 ![325-Lab-07](images/project2.png)
 
 ---
-### [Lab 09 | CSCI 325](project2.md)
+### [Lab 11 | CSCI 315](project2.md)
 
-![325-lab09](images/project3.png)
+![315-Lab-11](images/sort1.png)
 
 ---
 
