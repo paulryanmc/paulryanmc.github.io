@@ -1,28 +1,31 @@
 [Back to Portfolio](./)
 
-CSCI 325 Lab 09
+CSCI 315 Lab 11
 ===============
 
--   **Class: CSCI 325** 
--   **Grade: 95**
--   **Language(s): Java**
--   **Source Code Repository:** [CSCI 325 Lab 09](https://github.com/paulryanmc/325-lab09)  
+-   **Class: CSCI 315** 
+-   **Grade: 80**
+-   **Language(s): C++**
+-   **Source Code Repository:** [CSCI 315 Lab 11](https://github.com/paulryanmc/315-Lab-11)  
 
 ## Project description
 
-![325-Lab-07](images/project3.png)
+![315-Lab-11](images/sort2.png)
+![315-Lab-11](images/sort3.png)
 
-Java project designed to take a line of text input from the user and determine if it is a palindrome.
+C++ project to showcase the different sorting methods for arrays and similar data structures. Features Bubble, Selection, Insertion, and Quick sorting.
 
-Pictured above: Example input and output for positive and negative cases.
+|A| Console output requesting input from the user to configure array size and settings
+|B| Verbose bubble sorting output showing line by line changes
+|C| Verbose insertion sorting output showing line by line changes
+|D| Sorted array output
 
 
-To properly utilize these files, combine the relevant classes into a .jar file through a dedicated program or command line.
+Compiling C++ varies based on your compiler of choice and operating system.
 
-Example command line:
+Example command line for Windows with MinGW: g++ <.cpp files>
 
-jar cf jar-file input-file(s)
+Example command line for Linux with gcc: gcc program-source-code.c -o executable-file-name
 
-In an IDE such as Netbeans, the process should more or less done for you during the build process, or can be quickly done by importing the classes.
-Consult the material for your IDE.
+IDEs often come with built-in compilers. Consult your IDE's material.
 
