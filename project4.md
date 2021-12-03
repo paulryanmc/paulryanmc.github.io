@@ -7,7 +7,7 @@ CSCI 334 Team Project
 -   **Grade: 90**
 -   **Language(s): Ruby**
 -   **Source Code Repository:** [CSCI 334 Team](https://github.com/paulryanmc/334-Team)  
--   **Teammates: Benjamin Blauch Matthew Yanzer Kaitlyn Crews**
+-   **Teammates: Benjamin Blauch, Matthew Yanzer, Kaitlyn Crews**
 
 ## Project description
 
