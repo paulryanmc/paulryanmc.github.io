@@ -7,6 +7,7 @@ CSCI 332 Final Group Project
 -   **Grade: 90**
 -   **Language(s): C++**
 -   **Source Code Repository:** [CSCI 332 Final Group Project](https://github.com/paulryanmc/332-Team-Project)  
+-   **Teammates: Thomas J. Ramsey**
 
 ## Project description
 
