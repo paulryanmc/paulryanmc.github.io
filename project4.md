@@ -16,11 +16,11 @@ Promotes a COVID-19 Charity 5K Run and includes a login system and accompanying 
 **Example Website Deploy:** [CSCI 334 Team Example](http://gentle-caverns-07357.herokuapp.com/)
 
 ![334-Team-1](images/team2.png)
-Fig 1.  \
+**Fig 1.**  \
 A. Global directory with access to the various pages on the website    \
 B. New user signup functionality that allows users to create an account with the inputted Name, Email, and Password
 ![334-Team-2](images/team3.png)
-Fig 2.  \
+**Fig 2.**  \
 C. Admin access to the site-wide user database, specifically the delete functionality that allows an admin to remove an account  \
 D. Promotion functionality that allows the admin to ascend other users to admin status
 
