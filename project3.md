@@ -16,11 +16,11 @@ Project that utilizes a local server to play a game with another party that invo
 ![332-Group-Project-1](images/project1demo.png)
 Fig 1.  \
 A. Log of an in progress game showing the local IP the server is currently utilizing and the players X and Y coordinates in the game, along with their health and roles.  \
-B. Player Number  \
+B. Player Number
 ![332-Group-Project-2](images/project1demo2.png)
 Fig 2.  \ 
 C. Player Health  \
-D. Player Role  \
+D. Player Role
 
 Compiling C++ varies based on your compiler of choice and operating system.
 
