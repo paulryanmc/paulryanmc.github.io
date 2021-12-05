@@ -18,7 +18,7 @@ Fig 1.  \
 A. Log of an in progress game showing the local IP the server is currently utilizing.  \
 B. Output in the log showing the corresponding player's position via x and y coordinates.
 ![332-Group-Project-2](images/project1demo2.png)
-Fig 2.  \ 
+Fig 2. \
 C. Local log showing the player's health values in real time.  \
 D. Local log showing the role of the player as assigned at game start.
 
