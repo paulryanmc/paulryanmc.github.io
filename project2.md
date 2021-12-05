@@ -15,11 +15,12 @@ C++ project to showcase the different sorting methods for arrays and similar dat
 ![315-Lab-11](images/sort2.png)
 Fig 1.  \
 A. Console output requesting input from the user to configure array size and settings  \
-C. Verbose insertion sorting output showing line by line changes \
+B. Verbose bubble sorting output showing line by line changes  \
+
 ![315-Lab-11](images/sort3.png)
 Fig 2.  \
-|B| Verbose bubble sorting output showing line by line changes  \
-|D| Sorted array output  \
+C. Verbose insertion sorting output showing line by line changes \
+D. Sorted array output  \
 
 
 Compiling C++ varies based on your compiler of choice and operating system.
